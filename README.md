@@ -1,6 +1,6 @@
 # Pokemon-Themed-Game-SDL-
 
-As a group of 3, Gilbert Curbelo, Irais Gopar, and I created Pokemon inspired game for our Object-Oriented programming class. We utilized the Simple DirectMedia Layer library to incorporate graphics.
+As a group of 3, Gilbert Curbelo, Irais Gopar, and I created a Pokemon inspired game for our Object-Oriented programming class. We utilized the Simple DirectMedia Layer library to incorporate graphics.
 
 Start Screen
 
